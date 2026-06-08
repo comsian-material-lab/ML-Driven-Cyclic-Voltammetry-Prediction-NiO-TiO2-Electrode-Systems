@@ -1,0 +1,25 @@
+# Data files (do not upload raw data unless permitted)
+*.xlsx
+*.xls
+*.csv
+
+# Output directories (generated at runtime)
+*/scatter_combined.png
+*/combined_line.png
+*/combined_boxplots.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+*.egg-info/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
