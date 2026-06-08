@@ -198,24 +198,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📜 Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{[citation_key],
-  title   = {[Full paper title]},
-  author  = {[Author 1] and [Author 2] and ...},
-  journal = {[Journal Name]},
-  year    = {[Year]},
-  volume  = {[Volume]},
-  pages   = {[Pages]},
-  doi     = {[DOI]}
-}
-```
-
----
-
 ## 🔗 Related Repositories
 
 | Repository | Material System |
